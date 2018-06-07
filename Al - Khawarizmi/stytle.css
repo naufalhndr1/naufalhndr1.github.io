@@ -1,0 +1,47 @@
+header {color: #9d6113;
+    font-size: 50px;
+    text-align: center;
+      font-family: serif;
+       border-style:double;
+       font-weight: bold;
+        text-shadow: 4px 2px brown;
+
+}
+h1 {color: #9d6113;
+    font-size: 20px;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+    font-variant: small-caps;
+     margin-top    : 10px;
+    margin-right  : 20px;
+    margin-bottom : 10px;
+    margin-left   : 20px;
+    text-align: center;
+    background-color: #edac0f
+    padding: 20px
+    border-style:double;
+    font-family: verdana
+
+}
+
+h2{font-size: 25px;
+    text-align: center;
+
+}
+
+img {  margin-top    : 10px;
+    margin-right  : 20px;
+    margin-bottom : 10px;
+    margin-left   : 450px;
+    padding: 20px
+    border-style:double;
+
+
+}
+body { position: absolute;  
+	background-color: #edac0f
+
+
+}
+
+}
